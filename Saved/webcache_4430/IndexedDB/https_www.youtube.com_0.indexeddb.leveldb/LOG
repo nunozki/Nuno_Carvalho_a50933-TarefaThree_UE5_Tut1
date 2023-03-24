@@ -1,0 +1,6 @@
+2023/03/24-10:53:42.320 9474 Creating DB B:/Github/Nuno_Carvalho_a50933-TarefaThree_UE5_Tut1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/24-10:53:42.325 9474 Reusing MANIFEST B:/Github/Nuno_Carvalho_a50933-TarefaThree_UE5_Tut1/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/24-10:55:46.215 6b30 Level-0 table #5: started
+2023/03/24-10:55:46.219 6b30 Level-0 table #5: 8310 bytes OK
+2023/03/24-10:55:46.221 6b30 Delete type=0 #3
+2023/03/24-10:55:46.223 6b30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
